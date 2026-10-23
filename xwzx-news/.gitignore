@@ -1,0 +1,22 @@
+# 依赖包
+node_modules
+
+# 打包输出目录
+dist
+dist-ssr
+
+# 本地环境变量文件（如果有的话，防泄露密码）
+*.local
+.env
+.env.*
+
+# 编辑器目录和文件
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

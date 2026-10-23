@@ -1,0 +1,15 @@
+# 前端忽略
+node_modules
+dist
+dist-ssr
+
+# Python后端忽略
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+
+# 其他
+.env
+.DS_Store
